@@ -1,3 +1,5 @@
+Moved to [](https://github.com/srcery-colors/srcery-intellij)
+
 ![](docs/logo.png)
 
 Colorscheme with clearly defined contrasting colors and a slightly earthy tone.
