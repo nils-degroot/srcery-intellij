@@ -1,4 +1,4 @@
-Moved to [](https://github.com/srcery-colors/srcery-intellij)
+Moved to [https://github.com/srcery-colors/srcery-intellij](https://github.com/srcery-colors/srcery-intellij)
 
 ![](docs/logo.png)
 
